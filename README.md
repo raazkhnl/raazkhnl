@@ -5,8 +5,6 @@
 ## **************** Did you Know? *******************
 - Q. 🤔Why was the math book sad? 
 >      >> Because it had too many problems.
-- Q. 💻Why was the computer cold? 
->      >> It left its Windows open.
 - Q. 🚴Why couldn't the bicycle stand up by itself? 
 >      >> It was two-tired.
 - Q. 🍅Why did the tomato turn red? 
